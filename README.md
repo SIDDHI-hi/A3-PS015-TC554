@@ -9,6 +9,16 @@ Instead of blindly running every network test or making unsupported guesses, NER
 
 ---
 
+## 🎥 Team Introduction & Solution Video
+
+> **Meet the team behind NERVE and understand our approach to the problem.**
+
+▶️ **[Watch Our Team Introduction Video](https://youtu.be/igLn_64Mpas)**
+
+The video presents our understanding of the problem statement, the proposed NERVE solution, and the technical roles of each team member.
+
+---
+
 ## 🚨 The Problem
 
 When someone says:
